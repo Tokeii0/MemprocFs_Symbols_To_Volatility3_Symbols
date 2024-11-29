@@ -1,6 +1,6 @@
-# PDB to Volatility3 Symbols Converter
+# MemprocFs_Symbols_To_Volatility3_Symbols
 
-一个多线程批量转换工具，用于将 MemProcfs使用的 Windows PDB 文件转换为 Volatility3 符号文件（.json.xz）。
+用于将 MemProcfs使用的 Windows PDB 文件转换为 Volatility3 符号文件（.json.xz）。
 
 ## 使用前提
 
